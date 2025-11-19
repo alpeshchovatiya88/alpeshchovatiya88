@@ -25,5 +25,5 @@
 [**Vendor Performance Analysis:**](https://github.com/alpeshchovatiya88/Vendor_Performance_Analysis)
 Developed a Python, SQL, and power BI dashboard to analyze vendor performance.
 
-[**Auto theft Analysis - Data Visualization with Power BI and Tableau:**](https://github.com/alpeshchovatiya88/Auto_theft_GTA_Analysis))
+[**Auto theft Analysis - Data Visualization with Power BI and Tableau:**](https://github.com/alpeshchovatiya88/Auto_theft_GTA_Analysis)
 Developed a Power BI dashboard and Tableau charts to analyze Cars stolen from Greater Toronto Area between Years 2013 to 2023.
