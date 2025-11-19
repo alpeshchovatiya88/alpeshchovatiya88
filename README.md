@@ -12,12 +12,12 @@
 
 ### 🔧 Technologies & Skills
 
-• Programming & Libraries: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), R
-• Databases: SQL (MySQL, PostgreSQL), MS SQL Server, MongoDB, Databricks
-• Visualization Tools: Tableau, Power BI
-• Data Tools: Excel (VLOOKUP, Pivot Tables, Power Query), Google Sheets
-• Cloud & Big Data: Azure, Databricks, AWS, Hadoop
-• Other: Azure, Jupiter Notebook, Statistics, Data Cleaning, Exploratory Data Analysis (EDA)
-• Soft Skills: Communication, Problem-Solving, Teamwork, Detail-Oriented, Time Management
+• Programming & Libraries: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), R    
+• Databases: SQL (MySQL, PostgreSQL), MS SQL Server, MongoDB, Databricks             
+• Visualization Tools: Tableau, Power BI                   
+• Data Tools: Excel (VLOOKUP, Pivot Tables, Power Query), Google Sheets         
+• Cloud & Big Data: Azure, Databricks, AWS, Hadoop         
+• Other: Azure, Jupiter Notebook, Statistics, Data Cleaning, Exploratory Data Analysis (EDA)        
+• Soft Skills: Communication, Problem-Solving, Teamwork, Detail-Oriented, Time Management         
 
 ### 🛠️ Projects
