@@ -21,3 +21,6 @@
 • Soft Skills: Communication, Problem-Solving, Teamwork, Detail-Oriented, Time Management         
 
 ### 🛠️ Projects
+
+[**Vendor Performance Analysis:**](https://github.com/alpeshchovatiya88/Vendor_Performance_Analysis)
+Developed a Python, SQL, and power BI dashboard to analyze vendor performance.
