@@ -1,6 +1,6 @@
 #### Hello there, I am Alpesh Chovatiya
 
-📍 Toronto, Canada, ON | 📧 alpeshjchovatiya@gmail.com
+📍 Toronto, Canada, ON
 
 - Detail-oriented Data Analyst with expertise in data extraction, cleaning, analyzing, and interpreting large datasets to drive business decisions.
 - Skilled in Python, SQL, Excel, Tableau, and Power BI with a strong understanding of statistical modeling, data visualization, and business analytics.
